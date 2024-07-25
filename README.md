@@ -2,8 +2,11 @@
 Frameworks and Libraries:**
 
 **Backend:** Django with Django REST Framework (DRF) and Simple JWT for authentication.
+
 **Frontend:** React for the user interface.
+
 **Database:** SQLite3 for simplicity in development.
+
 **Static Files:** Served from a directory named staticfiles.
 
 **Authentication:**

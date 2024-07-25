@@ -1,2 +1,6 @@
 *.txt text
+<<<<<<< HEAD
 *.md text
+=======
+*.jpg binary
+>>>>>>> 2e5949d41483a1ab2988d7da601c90dec04a0c75

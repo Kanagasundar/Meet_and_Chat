@@ -1,0 +1,14 @@
+# Python bytecode files
+*.pyc
+
+# Python bytecode cache directory
+__pycache__/
+
+# Virtual environment directory
+.venv/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variable file (contains sensitive data)
+.env

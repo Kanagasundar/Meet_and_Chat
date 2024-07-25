@@ -12,3 +12,5 @@ node_modules/
 
 # Environment variable file (contains sensitive data)
 .env
+
+staticfiles/
